@@ -426,23 +426,3 @@ if int(Cheures) > 192 :
 
 # from TAKE.THE.RISK
 # Enjoy using this code. you can alter, add it's conten!!!!!!!
-
-
-
-
-
-
-        
-
-            
-                
-
-
-
-
-
-
-
-
-
-
