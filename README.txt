@@ -1,4 +1,4 @@
-#Les heures supplementaire.
+# Les heures supplementaire.
 
 A l'article  3 de l'ARRÊTÉ MIISTÉRIEL 68/11 du 17 mai 1968 relatif au rémunération des heures supplémentaires. 
 (Ministère du Travail et de la Prévoyance sociale), les heures de travail en republique démocratique du 
@@ -15,3 +15,7 @@ Les heures de travail effectuées au-delà de la durée légale du travail sont 
 a) des heures effectuées suite à un étalement sur une période plus longue que la journée ou la semaine en vertu des articles 10 et 11;
 b) des heures effectuées en récupération des heures perdues en vertu des articles 12 et 17;
 c) des heures de présence considérées comme équivalentes à la durée légale du travail en vertu de l’article 13.
+
+
+CE CODE FAIT LE CALCUL DES HEURES SUPPLEMETAIRES AVEC TOUS LES CODES ET EXPLICATIONS NECESSAIRES
+IL FAUDRA CEPENDANT IMPLEMENTER LA DERNIERE PARTIE QUANT A LA 4 EME SEMAINE DES HEURES SUPPLEMENTAIRES EN PYTHON
